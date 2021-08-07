@@ -4,7 +4,7 @@
 37C:\Users\12713\Desktop\cv-1\.cache\2d132727759489760841 1
 37C:\Users\12713\Desktop\cv-1\.cache\5e132727759494095514 1
 37C:\Users\12713\Desktop\cv-1\.cache\42132727759490050048 1
-32C:\Users\12713\Desktop\cv-1\dist132728054784338709 1
+32C:\Users\12713\Desktop\cv-1\dist132728058494821156 1
 37C:\Users\12713\Desktop\cv-1\.cache\7c132727759494364822 1
 37C:\Users\12713\Desktop\cv-1\.cache\06132727759489312197 1
 34C:\Users\12713\Desktop\cv-1\.cache132727759495162741 1
@@ -12,7 +12,7 @@
 38C:\Users\12713\Desktop\cv-1\.gitignore132727991926640000 0
 37C:\Users\12713\Desktop\cv-1\.cache\7d132727759494364822 1
 37C:\Users\12713\Desktop\cv-1\.cache\01132727759489222269 1
-43C:\Users\12713\Desktop\cv-1\dist\index.html132728054784308440 0
+43C:\Users\12713\Desktop\cv-1\dist\index.html132728058494811184 0
 37C:\Users\12713\Desktop\cv-1\.cache\af132727759494713858 1
 37C:\Users\12713\Desktop\cv-1\.cache\30132727759489780807 1
 42C:\Users\12713\Desktop\cv-1\src\index.html132727988358740918 0

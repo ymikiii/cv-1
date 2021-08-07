@@ -1,5 +1,5 @@
 let html = document.querySelector("#html");
-let style=document.querySelector('#style')
+let style=document.querySelector('#style');
 
 let string = `/* 你好，我叫小琪
  * 接下来我演示一下我的前端功底
